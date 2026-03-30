@@ -8,7 +8,7 @@ I just started my Master's in AI Convergence at Dankook University 🐻
 <br/>
 I enjoy watching baseball ⚾ and chasing good foods 🍜
 <br/>
-Feel free to contact me please 🙂
+Feel free to contact me🙂
 
 <br/>
 
