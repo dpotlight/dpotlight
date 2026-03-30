@@ -28,15 +28,15 @@ Feel free to contact me🙂
 
 ## 🎓Education
 
-| 학교 | 전공 | 기간 | 학위 | 소속 |
+| University | Major | Period | Degree | Affiliation |
 |------|------|------|------|------|
-| **Dankook University** | 인공지능융합학과<br/>AI-based Convergence | 2026.03 ~ | 석사<br/>Master's | [CSOS LAB](https://securesw.dankook.ac.kr) |
-| **Dankook University** | 생명과학전공 · SW융합콘텐츠전공<br/>Molecular Biology · SW Convergence Contents | 2019.03 ~ 2025.02 | 학사 · 복수전공<br/>B.S. · Double Major |  |
+| **Dankook University** | AI-based Convergence<br/>인공지능융합학과 | 2026.03 ~ | Master's<br/>석사 | [CSOS LAB](https://securesw.dankook.ac.kr) |
+| **Dankook University** | Molecular Biology · SW Convergence Contents<br/>분자생물학 · SW융합콘텐츠전공 | 2019.03 ~ 2025.02 | B.S. · Double Major<br/>학사 · 복수전공 |  |
 
 <br/>
 
 ## 🪖Military Service
 
-| 구분 | 복무 형태 | 복무 기간 | 복무지 | 비고 |
+| Category | Type of Service | Period | Location | Note |
 |------|----------|----------|--------|------|
-| 사회복무요원 · Social Service Personnel | 보충역 · Supplemental Service | 2024.02 ~ 2025.10 | 대한민국 · Republic of Korea | Discharged ✅ · 소집해제 ✅ |
+| Social Service Agent · 사회복무요원 | Supplemental Service  · 보충역 | 2024.02.01 ~ 2025.10.31 | Republic of Korea | Discharged✅|
