@@ -2,7 +2,7 @@
 
 ## 🔥 About Me
 
-Hi! I'm Dohyeon Kim from South Korea:kr:
+Hi! I'm Dohyeon Kim from South Korea🇰🇷
 <br/>
 I just started my Master's in AI Convergence at Dankook University🐻
 <br/>
