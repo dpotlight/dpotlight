@@ -2,8 +2,7 @@
 
 ## 🔥 About Me
 
-Hi! I'm Dohyeon Kim from South Korea<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/f4f34252-dc15-456a-a03c-847062045f83" />
-
+Hi! I'm Dohyeon Kim from South Korea 🇰🇷
 <br/>
 I just started my Master's in AI Convergence at Dankook University🐻
 <br/>
