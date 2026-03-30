@@ -18,20 +18,6 @@ Feel free to contact me🙂
 
 <br/>
 
-## 🔗 Links
-
-<a href="mailto:dpotlight2@dankook.ac.kr">
-  <img src="https://img.shields.io/badge/Email-dpotlight2@dankook.ac.kr-003876?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://blog.naver.com/dpotlight">
-  <img src="https://img.shields.io/badge/Blog-blog.naver.com/dpotlight-03C75A?style=flat-square&logo=naver&logoColor=white"/>
-</a>
-<a href="https://github.com/dpotlight">
-  <img src="https://img.shields.io/badge/GitHub-dpotlight-181717?style=flat-square&logo=github&logoColor=white"/>
-</a>
-
-<br/>
-
 ## 🎓 Education
 
 | University | Major | Period | Degree | Affiliation |
@@ -48,6 +34,20 @@ Feel free to contact me🙂
 `Sep 2023 – Dec 2023`
 
 > Intensive SW developer training program for non-CS majors, focused on big data analytics and AI processing.
+
+<br/>
+
+## 🔗 Links
+
+<a href="mailto:dpotlight2@dankook.ac.kr">
+  <img src="https://img.shields.io/badge/Email-dpotlight2@dankook.ac.kr-003876?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://blog.naver.com/dpotlight">
+  <img src="https://img.shields.io/badge/Blog-blog.naver.com/dpotlight-03C75A?style=flat-square&logo=naver&logoColor=white"/>
+</a>
+<a href="https://github.com/dpotlight">
+  <img src="https://img.shields.io/badge/GitHub-dpotlight-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
 
 <br/>
 
