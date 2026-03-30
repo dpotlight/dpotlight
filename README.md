@@ -29,6 +29,16 @@ Feel free to contact me🙂
 
 <br/>
 
+## 🪖 Military Service
+
+| Category | Type of Service | Period | Location |
+|------|----------|----------|--------|
+| Social Service Agent · 사회복무요원 | Supplemental Service  · 보충역 | 2024.02.01 ~ 2025.10.31 | Republic of Korea |
+
+
+
+<br/>
+
 ## 💼 Experience
 
 ### 🏫 TABA 4th — Campus SW Academy
@@ -54,11 +64,3 @@ Feel free to contact me🙂
 <a href="https://www.linkedin.com/in/dohyeon01/">
   <img src="https://img.shields.io/badge/LinkedIn-dohyeon01-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/>
 </a>
-
-<br/>
-
-## 🪖 Military Service
-
-| Category | Type of Service | Period | Location |
-|------|----------|----------|--------|
-| Social Service Agent · 사회복무요원 | Supplemental Service  · 보충역 | 2024.02.01 ~ 2025.10.31 | Republic of Korea |
