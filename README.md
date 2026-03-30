@@ -31,9 +31,9 @@ Feel free to contact me🙂
 
 ## 🪖 Military Service
 
-| Category | Type of Service | Period | Location |
+| Role | Service Type | Period | Location |
 |------|----------|----------|--------|
-| Social Service Agent · 사회복무요원 | Supplemental Service  · 보충역 | 2024.02.01 ~ 2025.10.31 | Republic of Korea |
+| Social Service Agent · 사회복무요원 | Supplemental Service  · 보충역 | 2024.02.01 ~ 2025.10.31 | Pangyo, Republic of Korea |
 
 
 
