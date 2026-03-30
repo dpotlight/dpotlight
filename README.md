@@ -26,7 +26,7 @@ Feel free to contact me🙂
 
 <br/>
 
-## 🎓 Education
+## 🎓Education
 
 | 학교 | 전공 | 기간 | 학위 | 소속 |
 |------|------|------|------|------|
@@ -35,8 +35,8 @@ Feel free to contact me🙂
 
 <br/>
 
-## 🪖 Military Service
+## 🪖Military Service
 
-| 구분 | 기간 | 비고 |
-|------|------|------|
-| 사회복무요원<br/>Social Service Personnel | 2024.02 ~ 2025.10 | Discharged ✅<br/>소집해제 ✅ |
+| 구분 | 복무 형태 | 복무 기간 | 복무지 | 비고 |
+|------|----------|----------|--------|------|
+| 사회복무요원 · Social Service Personnel | 보충역 · Supplemental Service | 2024.02 ~ 2025.10 | 대한민국 · Republic of Korea | Discharged ✅ · 소집해제 ✅ |
