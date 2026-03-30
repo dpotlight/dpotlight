@@ -50,6 +50,9 @@ Feel free to contact me🙂
 <a href="https://github.com/dpotlight">
   <img src="https://img.shields.io/badge/GitHub-dpotlight-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
+<a href="https://www.linkedin.com/in/dohyeon01/">
+  <img src="https://img.shields.io/badge/LinkedIn-dohyeon01-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
 
 <br/>
 
