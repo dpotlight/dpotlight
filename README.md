@@ -10,31 +10,34 @@ Feel free to contact me please🙂
 
 <br/>
 
-## 🔗 Contact & Links
+## 🔗 Links
 
 <a href="mailto:dpotlight2@dankook.ac.kr">
-  <img src="https://img.shields.io/badge/Dankook University-E31C39?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-dpotlight2@dankook.ac.kr-0d1b2a?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://blog.naver.com/dpotlight">
-  <img src="https://img.shields.io/badge/Naver Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Blog-blog.naver.com/dpotlight-03C75A?style=flat-square&logo=naver&logoColor=white"/>
 </a>
 <a href="https://github.com/dpotlight">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-dpotlight-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
 <br/>
 
 ## 🎓 Education
 
-**🇰🇷 Dankook University** &nbsp;|&nbsp; Yongin, South Korea
+| 학교 | 전공 | 기간 | 소속 |
+|------|------|------|------|
+| **DanKook University** | 인공지능융합학과 석사 | 2026.03 ~ | [CSOS LAB](https://securesw.dankook.ac.kr) |
+| **DanKook University** | 생명과학전공 · SW융합콘텐츠전공 (복수전공) | 2019.03 ~ 2025.02 | — |
 
-🔬 **B.S. Life Science** · SW Convergence & Contents (Double Major)
-&nbsp;&nbsp;&nbsp;&nbsp;생명과학전공 · SW융합콘텐츠전공 (복수전공)
-&nbsp;&nbsp;&nbsp;&nbsp;`2019.03 – 2025.02`
+<br/>
 
-🤖 **M.S. AI Convergence** · 인공지능융합학과
-&nbsp;&nbsp;&nbsp;&nbsp;Lab: [CSOS Lab](http://csos.dankook.ac.kr) ← 연구실 홈페이지 주소로 교체
-&nbsp;&nbsp;&nbsp;&nbsp;`2026.03 – Present`
+## 🪖 Military Service
+
+| 구분 | 기간 | 비고 |
+|------|------|------|
+| 사회복무요원 (Social Service Personnel) | 2024.02 ~ 2025.10 | Discharged ✅ |
 
 🪖 **Military Service** · 사회복무요원 (Social Service Personnel)
 &nbsp;&nbsp;&nbsp;&nbsp;`2024.02 – 2025.10` &nbsp;·&nbsp; Discharged ✅
