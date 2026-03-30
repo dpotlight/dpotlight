@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,100:1b3a5c&height=180&section=header&text=Dohyeon%20Kim&fontSize=55&fontColor=e8f4fd&animation=fadeIn&fontAlignY=45&fontFamily=Black%20Han%20Sans)
 
-## 👋About Me
+## 🔥 About Me
 
 Hi! I'm Dohyeon Kim from South Korea.
 <br/>
@@ -12,7 +12,13 @@ Feel free to contact me🙂
 
 <br/>
 
-## 🔗Links
+## 🔒 Research Interests
+
+🔒 `AI Security` 　 ☁️ `Cloud Computing` 　 🔍 `Digital Forensics`
+
+<br/>
+
+## 🔗 Links
 
 <a href="mailto:dpotlight2@dankook.ac.kr">
   <img src="https://img.shields.io/badge/Email-dpotlight2@dankook.ac.kr-003876?style=flat-square&logo=gmail&logoColor=white"/>
@@ -26,7 +32,7 @@ Feel free to contact me🙂
 
 <br/>
 
-## 🎓Education
+## 🎓 Education
 
 | University | Major | Period | Degree | Affiliation |
 |------|------|------|------|------|
@@ -35,7 +41,17 @@ Feel free to contact me🙂
 
 <br/>
 
-## 🪖Military Service
+## 💼 Experience
+
+### 🏫 TABA 4th — Campus SW Academy
+**Ministry of Science and ICT (MSIT) · IITP · TmaxTibero · Dankook University**
+`Sep 2023 – Dec 2023`
+
+> Intensive SW developer training program for non-CS majors, focused on big data analytics and AI processing.
+
+<br/>
+
+## 🪖 Military Service
 
 | Category | Type of Service | Period | Location | Note |
 |------|----------|----------|--------|------|
