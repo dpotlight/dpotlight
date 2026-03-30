@@ -24,7 +24,7 @@ Feel free to contact me🙂
 
 | University | Major | Period | Degree | Affiliation |
 |------|------|------|------|------|
-| **Dankook University** | AI-based Convergence<br/>인공지능융합학과 | 2026.03 ~ | Master's<br/>석사 | [CSOS LAB](https://securesw.dankook.ac.kr) |
+| **Dankook University** | AI-based Convergence 인공지능융합학과 | 2026.03 ~ | Master's 석사 | [CSOS LAB](https://securesw.dankook.ac.kr) |
 | **Dankook University** | Molecular Biology · SW Convergence Contents<br/>분자생물학 · SW융합콘텐츠전공 | 2019.03 ~ 2025.02 | B.S. · Double Major<br/>학사 · 복수전공 |  |
 
 <br/>
