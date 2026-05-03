@@ -24,7 +24,7 @@ Feel free to contact me 🙂
 ## 🔬 Research Interests
 I am broadly interested in artificial intelligence and its application to securing and understanding complex real-world systems. My primary research direction lies in **AI security**, where I study how machine learning can be used to detect and explain emerging threats such as botnets and malicious network behavior. Beyond security, I am drawn to the foundations of modern AI itself — including deep learning, representation learning, and the design of models that remain robust and interpretable in deployment.
 
-I am also interested in **digital forensics**, particularly in extending forensic analysis to non-traditional environments such as in-vehicle infotainment (IVI) systems and cloud-native platforms, where evidence is increasingly distributed and ephemeral. As a long-time baseball fan, I am additionally fascinated by **AI in sports analytics**, especially how machine learning and computer vision can transform performance evaluation, scouting, and game strategy. My broader goal is to bridge rigorous AI research with practical, high-impact application domains where data-driven intelligence can make systems safer, smarter, and more insightful.
+I am also interested in **digital forensics**, particularly in extending forensic analysis to non-traditional environments. As a long-time baseball fan, I am additionally fascinated by **AI in sports analytics**, especially how machine learning and computer vision can transform performance evaluation, scouting, and game strategy. My broader goal is to bridge rigorous AI research with practical, high-impact application domains where data-driven intelligence can make systems safer, smarter, and more insightful.
 
 ---
 
