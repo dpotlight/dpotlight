@@ -83,6 +83,7 @@ I am also interested in **digital forensics**, particularly in extending forensi
 **Bangor University, United Kingdom**  
 *Exchange Semester*
 - Period: 2023
+- Computer Sicence & Computer Engineering
 
 ---
 
