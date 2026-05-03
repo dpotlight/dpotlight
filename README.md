@@ -23,7 +23,9 @@ Feel free to contact me 🙂
 ---
 
 ## 🔬 Research Interests
-I am interested in building secure and trustworthy systems at the intersection of AI and cloud infrastructure. My current research focuses on AI security, with a particular emphasis on botnet detection through traffic data imaging and explainable AI (XAI). I am also exploring cloud security and digital forensics, with a secondary interest in vehicle forensics. My research goal is to develop principled, deployable methods for detecting and analyzing threats in modern cloud and networked environments.
+I am broadly interested in artificial intelligence and its application to securing and understanding complex real-world systems. My primary research direction lies in **AI security**, where I study how machine learning can be used to detect and explain emerging threats such as botnets and malicious network behavior. Beyond security, I am drawn to the foundations of modern AI itself — including deep learning, representation learning, and the design of models that remain robust and interpretable in deployment.
+
+I am also interested in **digital forensics**, particularly in extending forensic analysis to non-traditional environments such as in-vehicle infotainment (IVI) systems and cloud-native platforms, where evidence is increasingly distributed and ephemeral. As a long-time baseball fan, I am additionally fascinated by **AI in sports analytics**, especially how machine learning and computer vision can transform performance evaluation, scouting, and game strategy. My broader goal is to bridge rigorous AI research with practical, high-impact application domains where data-driven intelligence can make systems safer, smarter, and more insightful.
 
 ---
 
@@ -54,10 +56,6 @@ I am interested in building secure and trustworthy systems at the intersection o
         <li><b>Supervisor:</b> Prof. Seong-je Cho</li>
         <li><b>Period:</b> Mar 2026 – Present</li>
         <li><b>Location:</b> Yongin, Republic of Korea</li>
-        <li>Researching botnet detection using network traffic imaging (GAF, MTF, Poincaré Plot) and CNN-based classification</li>
-        <li>Applying Grad-CAM for explainable AI (XAI) in network intrusion detection</li>
-        <li>Affiliated with the ITRC Zero Trust Cloud Security Research Center</li>
-        <li>Exploring digital forensics with a focus on vehicle and IVI systems</li>
       </ul>
       <hr style="border:0; border-top:0.5px solid #d0d7de; margin:8px 0;">
     </td>
@@ -95,55 +93,6 @@ I am interested in building secure and trustworthy systems at the intersection o
 **Ministry of Science and ICT (MSIT) · IITP · TmaxTibero · Dankook University**  
 `Sep 2023 – Dec 2023`
 - Completed an intensive SW developer training program for non-CS majors, focused on big data analytics and AI processing.
-- Developed an AI-based job recommendation service as a capstone project.
-
----
-
-## 🚀 Projects
-
-<table>
-  <tr>
-    <th style="width:4%">No.</th>
-    <th style="width:25%">Project</th>
-    <th style="width:60%">Description</th>
-    <th style="width:11%">Links</th>
-  </tr>
-
-  <tr>
-    <td align="center">[1]</td>
-    <td><b>Botnet Detection via Traffic Imaging & XAI</b><br><sub>ITRC Zero Trust Cloud Security Project</sub></td>
-    <td>
-      <ul>
-        <li>Converting network flow metadata (CSE-CIC-IDS2018) into 2D images using GAF, MTF, and Poincaré Plot.</li>
-        <li>Applying CNN-based classification with Grad-CAM for explainable detection.</li>
-        <li>Collaborative project under the ITRC Zero Trust Cloud Security Research Center.</li>
-      </ul>
-    </td>
-    <td align="center">
-      <a href="https://github.com/dpotlight">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" width="90"/>
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">[2]</td>
-    <td><b>AI-based Job Recommendation Service</b><br><sub>TABA 4th Capstone</sub></td>
-    <td>
-      <ul>
-        <li>Developed a recommendation pipeline matching user profiles to job postings.</li>
-        <li>Applied data preprocessing, feature engineering, and ML-based ranking.</li>
-        <li>Built as the final project of the TABA 4th Campus SW Academy program.</li>
-      </ul>
-    </td>
-    <td align="center">
-      <a href="https://github.com/dpotlight">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" width="90"/>
-      </a>
-    </td>
-  </tr>
-
-</table>
 
 ---
 
