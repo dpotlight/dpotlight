@@ -7,7 +7,6 @@
 
 [![Email](https://img.shields.io/badge/EMAIL-003876?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dpotlight2@dankook.ac.kr)
 [![Blog](https://img.shields.io/badge/BLOG-03C75A?style=for-the-badge&logo=naver&logoColor=white)](https://blog.naver.com/dpotlight)
-[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dpotlight)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dohyeon01/)
 
 </div>
