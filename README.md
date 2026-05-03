@@ -83,7 +83,7 @@ I am also interested in **digital forensics**, particularly in extending forensi
 **Bangor University, United Kingdom**  
 *Exchange Semester*
 - Period: 2023
-- Computer Sicence & Computer Engineering
+- Computer Science & Computer Engineering
 
 ---
 
@@ -105,22 +105,7 @@ Supplemental Service · `Feb 2024 – Oct 2025`
 
 ---
 
-## 🧮 Technical Skills
 
-<div align="center">
-
-| Category | Skills |
-|:--------|:--------|
-| **Languages** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/> |
-| **Security** | <img src="https://img.shields.io/badge/Network%20Security-3DDC84?style=flat-square&logo=cloudflare&logoColor=white"/> <img src="https://img.shields.io/badge/Digital%20Forensics-0078D7?style=flat-square&logo=microsoft&logoColor=white"/> <img src="https://img.shields.io/badge/Cryptography-6E5494?style=flat-square&logo=openssl&logoColor=white"/> |
-| **AI/ML** | <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/> |
-| **Cloud** | <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Naver%20Cloud-03C75A?style=flat-square&logo=naver&logoColor=white"/> <img src="https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white"/> |
-| **OS & Tools** | <img src="https://img.shields.io/badge/Linux/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/> <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/> |
-| **Collaboration** | <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/> |
-
-</div>
-
----
 
 ## 🌏 Languages
 - **Korean** — Native
