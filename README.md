@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1 style="font-family:'Courier New', monospace;">Dohyeon Kim</h1>
-<p><strong>AI Security, Cloud Computing, Digital Forensics</strong></p>
+<p><strong>AI Security, Digital Forensics</strong></p>
 
 <p>📍 Yongin, Gyeonggi-do, Republic of Korea | ✉️ <a href="mailto:dpotlight2@dankook.ac.kr">dpotlight2@dankook.ac.kr</a></p>
 
