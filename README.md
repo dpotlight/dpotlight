@@ -3,7 +3,7 @@
 <h1 style="font-family:'Courier New', monospace;">Dohyeon Kim</h1>
 <p><strong>AI Security, Digital Forensics</strong></p>
 
-<p>📍 Yongin, Gyeonggi-do, Republic of Korea | ✉️ <a href="mailto:dpotlight2@dankook.ac.kr">dpotlight2@dankook.ac.kr</a></p>
+<p>📍 Pangyo, Gyeonggi-do, Republic of Korea | ✉️ <a href="mailto:dpotlight2@dankook.ac.kr">dpotlight2@dankook.ac.kr</a></p>
 
 [![Email](https://img.shields.io/badge/EMAIL-003876?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dpotlight2@dankook.ac.kr)
 [![Blog](https://img.shields.io/badge/BLOG-03C75A?style=for-the-badge&logo=naver&logoColor=white)](https://blog.naver.com/dpotlight)
