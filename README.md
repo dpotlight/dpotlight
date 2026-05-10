@@ -83,7 +83,7 @@ I am also interested in **digital forensics**, particularly in extending forensi
 **Bangor University, United Kingdom**  
 *Exchange Semester*
 - Period: 2023
-- Computer Science & Computer Engineering
+- Electronical Engineering & Computer Science
 
 ---
 
@@ -100,8 +100,7 @@ I am also interested in **digital forensics**, particularly in extending forensi
 
 **Social Service Agent (사회복무요원)**  
 Supplemental Service · `Feb 2024 – Oct 2025`
-- Location: Pangyo, Republic of Korea
-- Continued independent CS study (linear algebra, probability, NLP, data structures) during service period.
+- Continued independent CS study: Academic Credit Bank System(18credits)
 
 ---
 
