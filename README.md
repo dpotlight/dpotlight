@@ -22,7 +22,7 @@ M.S. student in AI Convergence at Dankook University (CSOS Lab, Advisor: Prof. S
 - **Digital Forensics**: Vehicle (IVI/EDR) forensics
 
 ## 📄 Publications
-- **ACM SAC 2027** (under review) · PP-Forensics: Encrypted Predicate Evaluation for Privacy-Preserving Vehicle Forensics
+- **ACM SAC 2027** (under review)
 - **CISC-W 2026** · 동형암호 기반의 프라이버시 보존 차량 디지털 포렌식 기법
 - **KCC 2026** · GASF 이미지 인코딩 CNN 기반 데이터 효율적 봇넷 탐지
 
