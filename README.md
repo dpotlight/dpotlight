@@ -21,8 +21,6 @@ M.S. student in AI Convergence at Dankook University (CSOS Lab, Advisor: Prof. S
 - **AI for Security**: Encrypted traffic classification, botnet detection, explainable AI
 - **Digital Forensics**: Vehicle (IVI/EDR) forensics
 
-Interested in protecting personal data in finance and telecom services.
-
 ## 📄 Publications
 - **ACM SAC 2027** (under review) · PP-Forensics: Encrypted Predicate Evaluation for Privacy-Preserving Vehicle Forensics
 - **CISC-W 2026** · 동형암호 기반의 프라이버시 보존 차량 디지털 포렌식 기법
